@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Gra w kości. Autor: Filip i Siwiński"
+        android:text="Gra w kości. Autorka: Victoria Dudek"
         android:textSize="23sp"
         android:textStyle="bold"
         android:background="#A52A2A"
